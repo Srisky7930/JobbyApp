@@ -1,0 +1,36 @@
+.similar-jobs-cards {
+  background-color: #202020;
+  margin: 10px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.logo {
+  height: 60px;
+  margin-right: 10px;
+}
+
+.text-title {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.job-para {
+  color: #ffffff;
+  width: 300px;
+}
+
+.title-cards {
+  display: flex;
+  align-items: center;
+}
+
+.location-ctc-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.icon {
+  color: #ffffff;
+}

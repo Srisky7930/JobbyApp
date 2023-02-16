@@ -1,0 +1,172 @@
+.jobs-details-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.jobs-list-cards {
+  background-color: #202020;
+  list-style-type: none;
+  width: 80%;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.company-details-card {
+  display: flex;
+  align-items: center;
+}
+
+.company-logo {
+  height: 100px;
+  width: 100px;
+}
+
+.job-card {
+  padding-left: 10px;
+}
+
+.title {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.rating {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.location-details-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.location-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.visit-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.job-description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 13px;
+}
+
+.skills-container {
+  margin-top: 30px;
+}
+
+.life-at-company-container {
+  margin-top: 30px;
+}
+
+.similar-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.similar-list {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.star-card {
+  display: flex;
+  align-items: center;
+}
+
+.location-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding-right: 20px;
+}
+
+.employ-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.icon-location {
+  color: #ffffff;
+  margin-right: 5px;
+}
+
+.icon-bag {
+  color: #ffffff;
+  margin-right: 5px;
+}
+
+.package-lpa {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.description-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.skills-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin: 0px;
+  padding: 0px;
+}
+
+.skills-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.skills-items {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.skills-image {
+  height: 50px;
+  margin-right: 20px;
+}
+
+.skills-name {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 10px;
+}
+
+.life-description {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.life-at-image {
+  height: 200px;
+  border-radius: 10px;
+}
+
+.life-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.link-item {
+  color: #b6c5ff;
+}

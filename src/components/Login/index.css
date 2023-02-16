@@ -1,0 +1,90 @@
+.app-container {
+  background-color: #000000;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  background-color: #272727;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.website-logo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.website-logo {
+  height: 40px;
+}
+
+.username-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.user-label {
+  color: #ffff;
+  font-family: 'Roboto';
+}
+
+.user-input {
+  height: 40px;
+  width: 300px;
+  background-color: transparent;
+  border: 1px solid #b6c5ff;
+  border-radius: 5px;
+  margin-top: 10px;
+  color: #ffff;
+  padding-left: 10px;
+}
+
+.password-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+}
+
+.password-label {
+  color: #ffff;
+  font-family: 'Roboto';
+}
+
+.password-input {
+  height: 40px;
+  width: 300px;
+  background-color: transparent;
+  border: 1px solid #b6c5ff;
+  border-radius: 5px;
+  margin-top: 10px;
+  color: #ffff;
+  padding-left: 10px;
+}
+
+.login-button {
+  background-color: #4f46e5;
+  color: #ffff;
+  font-family: 'Roboto';
+  border-width: 0px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+.error-msg {
+  color: #ff0b37;
+  font-family: 'Roboto';
+}
